@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737783307837",
+    "project_id": "social-media-efcae",
+    "storage_bucket": "social-media-efcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737783307837:android:4cad687bc19c688ff59454",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWjFKD1ZlmG0JfnHcGkHfy3JdwyyYoB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
